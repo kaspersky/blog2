@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Blog of a typer
 locale:           en_US
 url:              http://localhost:4000
 
@@ -26,11 +26,11 @@ kramdown:
 
 # Site owner
 owner:
-  name:
-  avatar:
-  bio:
-  email: 
-  disqus-shortname: 
+  name: Vladimir Cernov
+  avatar: bio-photo.jpg
+  bio: "Typer."
+  email: gg.kaspersky@gmail.com
+  disqus-shortname: httpkasperskygithubioblog
   twitter: #username
   facebook: #username
   google:
