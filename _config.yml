@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name:
+  avatar:
+  bio:
   email: 
   disqus-shortname: 
   twitter: #username
